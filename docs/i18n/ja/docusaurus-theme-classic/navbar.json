@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "item.label.User Manual": {
-    "message": "ユーザーズマニュアル",
+    "message": "ユーザーマニュアル",
     "description": "Navbar item with label User Manual"
   },
   "item.label.Core Concepts": {
