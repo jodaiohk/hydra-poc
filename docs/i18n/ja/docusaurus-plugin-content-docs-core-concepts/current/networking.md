@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Hydraネットワーキング
 
-ここでは、ヘッドを開くことができるHydraノードで構成されるネットワークHydra Networking Layerについて詳しく説明します。
+ここでは、Headを開くことができるHydraノードで構成されるネットワークHydra Networking Layerについて詳しく説明します。
 
 :::警告
 
